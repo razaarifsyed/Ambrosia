@@ -18,7 +18,9 @@ Please change my mysql password in the java net beans project source code. My My
 
 After setting up the database, you can run the Java application directly by going to the folder, "dist" and then opening "Ambrosia.jar" file.
 
-To set up the mysql database, please refer to the picture file "dbs.jpeg" and "dbs2.jpeg". It has the screenshot of my table description and table contents respectively. Create a similar database-table and fill it before starting the app. 
+To set up the mysql database, open the "dbscoe.txt" file. Its the source code of the mysql database and code creation. 
+Warning, i recreated this mysql source code later so might have errors. In that case, refer to the picture file "dbs.jpeg" and "dbs2.jpeg" of the orignial database. It has the screenshot of my table description and table contents respectively. Create a similar database-table and fill it before starting the app. 
+
 It has only one table in the 'student' database with the name 'user'. 
 
 Let me know if you need any help or liked my work :)
