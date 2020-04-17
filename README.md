@@ -14,6 +14,8 @@ The app has many features like Signin/Signup Account Managing system, storing pr
 
 Notes
 
+Please change my mysql password in the java net beans project source code. My MySQL password was "password" only, yours might be different. Find the connection statements in the java code and change the password accordingly. My MySQL username was 'root'.
+
 After setting up the database, you can run the Java application directly by going to the folder, "dist" and then opening "Ambrosia.jar" file.
 
 To set up the mysql database, please refer to the picture file "dbs.jpeg" and "dbs2.jpeg". It has the screenshot of my table description and table contents respectively. Create a similar database-table and fill it before starting the app. 
