@@ -1,0 +1,7 @@
+create database student;
+
+use student;
+
+
+
+create table user ( uname varchar(30), pass varchar(30),name varchar(30),age int(11),gend varchar(30),height double, iwt double, cwt double, twt double, tmn double, activity varchar(30),ecal int(11),count int(11),ical int(11),  primary key(uname));
