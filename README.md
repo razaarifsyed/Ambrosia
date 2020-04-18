@@ -12,7 +12,9 @@ Everyday he is suggested his calorie goal. The user enter into the system whatev
 
 The app has many features like Signin/Signup Account Managing system, storing profile information, calculation calorie consumed, suggesting calories to consume, has the menu of the food court, feature to add any other calorie value manually if eaten from outside food. 
 
-Notes
+---------------
+
+**Notes**
 
 Please change my mysql password in the java net beans project source code. My MySQL password was "password" only, yours might be different. Find the connection statements in the java code and change the password accordingly. My MySQL username was 'root'.
 
@@ -22,5 +24,7 @@ To set up the mysql database, open the "dbscoe.txt" file. Its the source code of
 Warning, i recreated this mysql source code later so might have errors. In that case, refer to the picture file "dbs.jpeg" and "dbs2.jpeg" of the orignial database. It has the screenshot of my table description and table contents respectively. Create a similar database-table and fill it before starting the app. 
 
 It has only one table in the 'student' database with the name 'user'. 
+
+---------
 
 Let me know if you need any help or liked my work :)
